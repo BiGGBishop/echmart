@@ -1,1 +1,1 @@
-<p align="center">Multi Vendor Ecommerce API</p>
+Multi Vendor Ecommerce API
