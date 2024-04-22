@@ -1,0 +1,14 @@
+###PLEASE PAY CLOSE ATTENTION TO PROJECT NOTE, LEAVE UPDATES AND GIVE ACCOUNT OF WHAT HAS BEEN installed
+MAKE SURE TO ALWAYS ADD AN AUTHOR WITH DATE DAILY, GITHUB WILL MANAGE FILE CHANGES BUT WE NEED TO TRACK
+DEPENDENCIES CHANGES. BECAUSE THIS IS THE APPLICATION DOCUMENTATION. Pay attention to sample below!
+
+//////
+Project initiated with vite version 4.5+
+tailwind has been installed with breeze version 1.2+
+project initiated with mysql production build
+Set up with zero vulnerabilities: author Yemi, 21/11/2023
+////
+
+////
+Set up Spatie for Roles and Permission
+////
